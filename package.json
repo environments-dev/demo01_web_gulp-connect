@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Una web app",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^2.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.3.1"
+  },
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "practian",
+  "license": "ISC"
+}
